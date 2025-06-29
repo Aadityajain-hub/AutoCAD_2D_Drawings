@@ -39,8 +39,7 @@ This repository contains a curated set of 2D mechanical drawings designed using 
 - Use for learning, practice, or project reference.
 
 ## 👨‍💻 Author
-**Aaditya Jain**  
-📍 Alwar, Rajasthan, India  
+**Aaditya Jain** 
 [GitHub Profile](https://github.com/Aadityajain-hub)
 
 ## 📜 License
